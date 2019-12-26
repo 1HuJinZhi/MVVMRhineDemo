@@ -1,2 +1,2 @@
-include ':app'
+include ':app',":mvvm_rhine"
 rootProject.name='MVVMRhineDemo'
